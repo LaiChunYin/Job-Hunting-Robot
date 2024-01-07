@@ -1,0 +1,57 @@
+first_name: "your first name"
+last_name: "your last name"
+preferred_name: "your preferred name"
+email: "yourEmail@example.com"
+mobile: "123 456 7890"
+year_of_experience": 1
+city: "Toronto"
+# For resume_path and cover_letter_path, they must include the placeholder {company}
+resume_path: "resources/resumes/{company}/Resume.pdf"
+cover_letter_path: "resources/cover_letters/{company}/Cover_Letter.pdf"
+# In resume, you may include any information that may help writing your cover letter
+# Do not include any tab character in the resume
+resume: "Jordan Smith
+jordan.smith@example.com | (555) 123-4567 | https://www.linkedin.com/in/jordan-smith/ | https://github.com/JordanSmith
+
+WORK EXPERIENCE
+Innovative Tech Solutions July 2022 – Present
+Software Engineer New York, NY
+
+• Led the development of a cross-platform mobile application using React Native, enhancing customer engagement by 40%.
+• Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 50% and increasing deployment frequency by 30%.
+• Collaborated in the development of a microservices architecture, boosting scalability and maintainability of the company's main product.
+• Developed a real-time data analytics feature using Python and Kafka, increasing data processing efficiency by 25%.
+
+DataGenics Corporation May 2021 – Aug. 2021
+Data Analyst Intern San Francisco, CA
+
+• Automated data cleaning and preprocessing with Python, enhancing data analysis efficiency by 35%.
+• Optimized SQL queries for large-scale data retrieval, improving performance by 20%.
+• Assisted in creating a Tableau dashboard to visualize key business metrics, aiding stakeholder decision-making.
+
+EDUCATION
+Massachusetts Institute of Technology (MIT) Sep. 2023 – Jun. 2025 (Expected)
+M.Sc. in Computer Science Cambridge, MA
+• Specialization in Machine Learning and Data Science.
+• Relevant Coursework: Advanced Algorithms, Artificial Intelligence, Big Data Analytics.
+
+University of California, Berkeley Sep. 2018 – May 2022
+B.Sc. in Computer Science Berkeley, CA
+
+Graduated with Honors, GPA: 3.8/4.0.
+Relevant Coursework: Data Structures, Operating Systems, Database Management.
+
+PROJECTS
+E-Commerce Analytics Web Application
+• Built a Django-based web application providing real-time e-commerce analytics.
+• Integrated Stripe API for payment processing and developed a product recommendation engine.
+
+Personal Finance Tracker Mobile App
+• Developed an iOS app in Swift for personal finance management and analysis.
+• Features included expense categorization, budget planning, and financial goals tracking.
+
+SKILLS
+• Technical Skills: Python, Java, JavaScript, Swift, React, Django, Node.js, Git, Docker, Jenkins, SQL, Tableau
+• Soft Skills: Communication, Collaboration, Leadership, Critical Thinking, Time Management
+"
+

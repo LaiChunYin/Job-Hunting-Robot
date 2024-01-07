@@ -1,0 +1,26 @@
+indeed_search_criteria: 
+    keywords : "it support"
+    location : "toronto"
+
+indeed_filter_criteria: 
+    dateposted: "Last 24"
+    remotejob: "Remote"
+    salary-estimate: "$25"  # must have a dollar sign in the front
+    jobtype: "Internship"
+    loc: null
+    lang: null
+    
+
+# currently useless
+linkedin_search_criteria: 
+    keywords : "it support"
+    location : "toronto"
+
+linkedin_filter_criteria: 
+    dateposted: "Last 24"
+    remotejob: "Remote"
+    salary-estimate: "$25"  # must have a dollar sign in the front
+    jobtype: "Internship"
+    loc: null
+    lang: null
+    

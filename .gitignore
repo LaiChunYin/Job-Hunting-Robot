@@ -1,0 +1,11 @@
+.DS_Store
+.env
+~$sume_template.docx
+~$ver_letter_template.docx
+config/personal_info.yaml
+config/search_and_filter.yaml
+resources/resumes
+resources/cover_letters
+resources/jobs.csv
+resources/templates/cover_letter_template.docx
+resources/templates/resume_template.docx
